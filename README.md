@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Salguero</h1>
+<h1 align="center">I'm Juan Salguero</h1>
 <h3 align="center">Unity Dev|Tech artist in progress</h3>
 
 - Trabajando en: **Wizard Bear**
