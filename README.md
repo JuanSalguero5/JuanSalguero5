@@ -1,9 +1,7 @@
 <h1 align="center">I'm Juan Salguero</h1>
 <h3 align="center">Unity Dev|Tech artist in progress</h3>
 
-- Trabajando en: **Wizard Bear**
-
-- 👨‍💻 All of my projects are available at [https://jrnmslgr.wixsite.com/jer-nimo-salguero-pr/portfolio](https://jrnmslgr.wixsite.com/jer-nimo-salguero-pr/portfolio)
+- 👨‍💻 All of my projects are available at (https://jrnmslgrgmail.itch.io))
 
 - 📄 Know about my experiences [Generation Colombia | Delirium Studios](Generation Colombia | Delirium Studios)
 
