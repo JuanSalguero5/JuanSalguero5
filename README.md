@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at (https://jrnmslgrgmail.itch.io))
 
-- 📄 Know about my experiences [Generation Colombia | Delirium Studios](Generation Colombia | Delirium Studios)
+- 📄 Know about my experiences (Turpial Vibes | Delirium Studios )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
